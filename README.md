@@ -1,1 +1,1 @@
-# Re-evaluating Metamrophic testing of chess engines
+# Re-evaluating Metamorphic testing of chess engines
